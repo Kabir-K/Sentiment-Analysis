@@ -1,0 +1,5 @@
+# Ignore Scripts directory
+Scripts/
+
+# Ignore venv folder
+venv/
